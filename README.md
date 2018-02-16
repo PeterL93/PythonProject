@@ -3,3 +3,5 @@
 3. What is the most favoured transaction type (selling dollars for euros, for example)
 4. Average sale and buy price per day for the most bought currency
 5. Total volume per day (graph)
+
+https://www.coinapi.io/?gclid=Cj0KCQiA_JTUBRD4ARIsAL7_VeVq1VpdI3iIWcKh00m6zOVqIqf3kVKoUOblxW49gkfQIKJx5h-uiQoaAqTREALw_wcB
