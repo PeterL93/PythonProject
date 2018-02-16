@@ -10,16 +10,14 @@ https://www.coinapi.io/?gclid=Cj0KCQiA_JTUBRD4ARIsAL7_VeVq1VpdI3iIWcKh00m6zOVqIq
 
 
 
+## 
+
 Back-up solution as requested:
 
 Compare overall who is the top 3 across all servers?
-
 Which top 500 players based on server has the highest average rating?
-
 Which mode is played the most based on the top 500 players?
-
 Which player has the highesst KDA across all game modes & servers?
-
 Which player has played the most games across all game modes & servers?
 
 https://pubg.op.gg/leaderboard/?server=eu&mode=tpp&queue_size=1
