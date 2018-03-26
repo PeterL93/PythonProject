@@ -11,13 +11,3 @@ https://www.coinapi.io/?gclid=Cj0KCQiA_JTUBRD4ARIsAL7_VeVq1VpdI3iIWcKh00m6zOVqIq
 
 
 ## 
-
-Back-up solution as requested:
-
-1. Compare the top 3 players overall on all servers
-2. Which top 500 players, based on server, has the highest average rating
-3. Which mode is played the most based on the top 500 players
-4. Which player has the highesst KDA across all game modes & servers
-5. Which player has played the most games across all game modes & servers
-
-https://pubg.op.gg/leaderboard/?server=eu&mode=tpp&queue_size=1
