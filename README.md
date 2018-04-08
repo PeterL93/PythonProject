@@ -1,4 +1,8 @@
-Main solution:
+# Handin
+
+Run run_me.py
+
+# Questions
 
 1. What is the transaction with the highest volume in the timespan
 2. What is the average number of transactions per hour (would look nice like a graph)
@@ -7,6 +11,8 @@ Main solution:
 5. Total volume per day (graph)
 
 https://www.coinapi.io/?gclid=Cj0KCQiA_JTUBRD4ARIsAL7_VeVq1VpdI3iIWcKh00m6zOVqIqf3kVKoUOblxW49gkfQIKJx5h-uiQoaAqTREALw_wcB
+
+# Disclaimer
 
 We weren't told it had to be a specific dataset when we made the assignment, and I guess it's too late to change it now. I thought people got that, but I guess not, so here is what you have to do.
 
