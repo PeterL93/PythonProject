@@ -1,9 +1,12 @@
 import question1
+import question2
+
 
 def run():
     with open('trades_march_to_april_2018.csv', encoding='utf-8') as f:
         print_question_separator('1. What is the highest size of a transaction between March and April 2018 (BTC)')
         question1.run(f)
+        question2.run(f)
 
 
 def print_question_separator(question_number):
