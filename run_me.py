@@ -1,10 +1,13 @@
 import question1
-import question4
 import question2
+import question4
+from file_handler import get_csv_sheet
 
 
 def run():
-    with open('trades_march_to_april_2018.csv', encoding='utf-8') as f:
+    file_name = 'trades_march_to_april_2018.csv'
+    get_csv_sheet(file_name, 'https://raw.githubusercontent.com/PeterL93/PythonProject/master/trades_march_to_april_2018.csv')
+    with open(file_name, encoding='utf-8') as f:
         print_question_separator('1. What is the highest size of a transaction between March and April 2018 (BTC)')
         question1.run(f)
         print_question_separator('2. What is the average number of transactions per hour')
