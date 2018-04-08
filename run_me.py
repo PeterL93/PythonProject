@@ -1,6 +1,7 @@
 import question1
 import question2
 import question4
+import question5
 from file_handler import get_csv_sheet
 
 
@@ -14,6 +15,8 @@ def run():
         question2.run(f)
         print_question_separator('4. Average sale and buy price per day for the most bought currency')
         question4.run(f)
+        print_question_separator('5. Illustrated with a graph')
+        question5.run(f)
 
 
 def print_question_separator(question_number):
