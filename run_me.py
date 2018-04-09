@@ -1,5 +1,6 @@
 import question1
 import question2
+import question3
 import question4
 import question5
 from file_handler import get_csv_sheet
@@ -13,6 +14,8 @@ def run():
         question1.run(f)
         print_question_separator('2. What is the average number of transactions per hour')
         question2.run(f)
+        print_question_separator('3. What is the most favourite; selling or buying?')
+        question3.run(f)
         print_question_separator('4. Average sale and buy price per day for the most bought currency')
         question4.run(f)
         print_question_separator('5. Illustrated with a graph')
