@@ -15,7 +15,7 @@ def run(f):
     for item in transaction_counts.items():
         x = item[0]
         y = item[1]
-        fig = plt.scatter(x, y)
+        fig = plt.scatter(x, y, s=200)
         print(item[0], " -> ", item[1], " transactions")
 
     plt.title("Graph of a days transactions", fontsize=20)
